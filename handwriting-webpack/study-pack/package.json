@@ -1,0 +1,17 @@
+{
+  "name": "study-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "study-pack": "./bin/study-pack.js"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.2.2",
+    "@babel/traverse": "^7.2.2",
+    "@babel/types": "^7.2.2",
+    "babylon": "^6.18.0",
+    "ejs": "^2.6.1",
+    "tapable": "^1.1.1"
+  }
+}

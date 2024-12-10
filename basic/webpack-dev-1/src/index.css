@@ -1,0 +1,11 @@
+@import './a.css';
+@import './index.less';
+body{
+  background: red;
+
+}
+
+div{
+  width: 954px;height: 249px;
+  background: url("./logo.png");
+}
